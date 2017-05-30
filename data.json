@@ -1,0 +1,128 @@
+[
+  {
+    "question" : "Out of the teams below, which one never reached any World Cup final match? ",
+    "answers" : [
+      {"id" : 0, "text" : "Hungary"},
+      {"id" : 1, "text" : "Poland"},
+      {"id" : 2, "text" : "Sweden"}, 
+      {"id" : 3, "text" : "Czechoslovakia "}
+    ],
+    "correct": 1
+  },
+
+  {
+    "question" : "Which player won world cup in 1998?",
+    "answers"  : [
+      {"id"  : 0, "image" : "images/Ronaldinhojpg.jpg"},
+      {"id"  : 1, "image" : "images/messijpg.jpg"},
+      {"id"  : 2, "image" : "images/beckamjpg.jpg"},
+      {"id"  : 3, "image" : "images/zidanejpg.jpg"}
+    ],
+    "correct"  : 3
+  },
+
+  {
+    "question" : "Who is the all-time record goalscorer in FIFA world cup?",
+    "answers"  : [
+      {"id"  : 0, "text" : "Diago Maradona"},
+      {"id"  : 1, "text" : "Ronaldo"},
+      {"id"  : 2, "text" : "Miroslav Klose"},
+      {"id"  : 3, "text" : "Gary Lineker"}
+    ],
+    "correct"  : 2
+  },
+
+  {
+    "question" : "Which country never won world cup?",
+    "answers"  : [
+      
+      {"id"  : 0, "text" : "Italy"},
+      {"id"  : 1, "text" : "Spain"},
+      {"id"  : 2, "text" : "Netherlands"},
+      {"id"  : 3, "text" : "Argentina"}
+    ],
+    "correct"  : 2
+  },
+
+
+
+{
+    "question" : "In 1938, which nation became the first to win the World Cup for a second time?",
+    "answers"  : [
+      
+      {"id"  : 0, "text" : "France"},
+      {"id"  : 1, "text" : "Italy"},
+      {"id"  : 2, "text" : "Brazil"},
+      {"id"  : 3, "text" : "Uruguay"}
+    ],
+    "correct"  : 1
+    
+  },
+
+
+
+  {
+   
+    "question" : "Which nation won the inaugural World Cup in 1930??",
+    "answers"  : [
+      {"id"  : 0, "image" : "images/uruguayjpg.jpg"},
+      {"id"  : 1, "image" : "images/spainjpg.jpg"},
+      {"id"  : 2, "image" : "images/argentinapng.png"},
+      {"id"  : 3, "image" : "images/Germanypng.png"}
+    ],
+    "correct"  :0
+  },
+
+
+
+{
+    "question" : "How old was legendary goalkeeper, Dino Zoff, when he won the World cup with Italy in 1982?",
+    "answers"  : [
+      
+      {"id"  : 0, "text" : "40"},
+      {"id"  : 1, "text" : "38"},
+      {"id"  : 2, "text" : "37"},
+      {"id"  : 3, "text" : "41"}
+    ],
+    "correct"  : 0
+  },
+
+{
+    "question" : "Who is the only player in football history to score two hat-tricks in different World Cups?",
+    "answers"  : [
+      
+      {"id"  : 0, "text" : "Thomas Müller"},
+      {"id"  : 1, "text" : "Johan Cruyff"},
+      {"id"  : 2, "text" : "Ferenc Puskás"},
+      {"id"  : 3, "text" : "Gabriel Batistuta"}
+    ],
+    "correct"  : 3
+    
+  },
+
+{
+    "question" : "What was the first Asian country to appear in a World Cup?",
+    "answers"  : [
+      
+      {"id"  : 0, "text" : "Japan"},
+      {"id"  : 1, "text" : "Dutch East Indies"},
+      {"id"  : 2, "text" : "Iran"},
+      {"id"  : 3, "text" : "China"}
+    ],
+    "correct"  : 1
+    
+  },
+
+  {
+    "question" : "Who holds the record for most goals scored in a single World Cup??",
+    "answers"  : [
+      {"id"  : 0, "text" : "Just Fontaine"},
+      {"id"  : 1, "text" : "Gerd Muller "},
+      {"id"  : 2, "text" : "Wayne Rooney"},
+      {"id"  : 3, "text" : "Paolo Rossi"}
+    ],
+    "correct"  : 0
+  }
+
+
+]
