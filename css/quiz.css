@@ -89,13 +89,6 @@ body {
 
 #myQuiz .progress div.correct::after {
   
-  content: '';
-  display: block;
-  position: absolute;
-  border-radius: 50%;
-  left: 0px;
-  width: 15px;
-  height: 15px;
   
   top: 0px;
   opacity: 1;
