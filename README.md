@@ -2,6 +2,7 @@
 A quiz app using angularJs
 Working:
    Clone the repository and load index.html
+   or use https://rawgit.com/nasykt/FIFA-WC-QUIZ-APP/master/index.html 
    
 Creation:
     Layout and animations created using  with HTML in CSS, 
