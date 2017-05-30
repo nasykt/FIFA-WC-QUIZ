@@ -45,10 +45,10 @@
       return $scope.activeQuestion += 1;
     }
 
-    $scope.createShareLinks = function(perelipedearaujo.com/saturn-quizcentage) {
+    $scope.createShareLinks = function(percentage) {
       var url = 'https://rawgit.com/nasykt/FIFA-WC-QUIZ-APP/master/index.html';
 
-      var emailLink = '<a class="btn email" href="mailto:?subject=Try to beat my FIFA World cup quiz score!&body=I scored a '+ percentage +'% on this quiz about Saturn. Try to beat my score at '+ url +'">Email a friend</a>';
+      var emailLink = '<a class="btn email" href="mailto:?subject=Try to beat my FIFA World cup quiz score!&body=I scored a '+ percentage +'% on this quiz about FifaWC. Try to beat my score at '+ url +'">Email a friend</a>';
 
   
       var newMarkup = emailLink ;
