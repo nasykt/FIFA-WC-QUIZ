@@ -63,7 +63,7 @@
 
   {
    
-    "question" : "Which nation won the inaugural World Cup in 1930??",
+    "question" : "Which nation won the inaugural World Cup in 1930?",
     "answers"  : [
       {"id"  : 0, "image" : "images/uruguayjpg.jpg"},
       {"id"  : 1, "image" : "images/spainjpg.jpg"},
@@ -114,7 +114,7 @@
   },
 
   {
-    "question" : "Who holds the record for most goals scored in a single World Cup??",
+    "question" : "Who holds the record for most goals scored in a single World Cup?",
     "answers"  : [
       {"id"  : 0, "text" : "Just Fontaine"},
       {"id"  : 1, "text" : "Gerd Muller "},
