@@ -5,7 +5,8 @@ Working:
    or use https://rawgit.com/nasykt/FIFA-WC-QUIZ-APP/master/index.html 
    Use computer browser to get the app in proper view.
   
-  Making overview:
+  
+  -Making overview:
     Layout and animations created using  with HTML in CSS, 
     Used AngularJS framework to create a fully data-driven quiz, 
     Created progress bar that will also represent which answers are correct.
