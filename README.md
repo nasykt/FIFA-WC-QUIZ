@@ -1,4 +1,4 @@
-# FIFA-WC-QUIZ-APP
+# Fifa-WC-Quiz app
 A quiz app using angularJs
 Working:
    Clone the repository and load index.html
